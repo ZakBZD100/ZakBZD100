@@ -25,7 +25,7 @@ I'm a tech enthusiast focused on turning complex ideas into reliable and efficie
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <table>
   <tr>
@@ -61,7 +61,7 @@ I'm a tech enthusiast focused on turning complex ideas into reliable and efficie
 
 ---
 
-### 📊 My GitHub Stats
+### My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakBZD100&layout=compact&theme=merko" alt="Zakariae's Top Languages"/>
