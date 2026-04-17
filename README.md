@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Zakariae El Bouzidi 👋</h1>
+  <h1>Hi, I'm Zakariae El Bouzidi </h1>
   <h3>A passionate Software & Network Engineering Student</h3>
   <p>Systems Builder • Data Explorer</p>
   
